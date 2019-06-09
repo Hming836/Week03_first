@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 
 /**
  * @Auther :Hming
- * @Date : 2019/5/27  19:30
+ * @Date : 2019/6/9  19:30
  * @Description: 抽取基类
  */
 public abstract class BaseActivity extends AppCompatActivity {

@@ -13,8 +13,8 @@ import com.bwei.week03_first.usermvp.UserPresenterImpl;
 
 /**
  * @Auther :Hming
- * @Date : 2019/5/27  19:30
- * @Description: 主显示页面
+ * @Date : 2019/6/9  21:05
+ * @Description: 登录页面
  */
 public class MainActivity extends BaseActivity implements IUserContract.IUserView {
     IUserContract.IUserPresenter presenter;

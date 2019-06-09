@@ -2,7 +2,7 @@ package com.bwei.week03_first.net;
 
 /**
  * @Auther :Hming
- * @Date : 2019/5/27  20:42
+ * @Date : 2019/6/9  20:42
  * @Description: ${DESCRIPTION}
  */
 public interface CallBackString {

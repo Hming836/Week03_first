@@ -8,7 +8,11 @@ import android.widget.Toast;
 import com.bwei.week03_first.base.BaseActivity;
 import com.bwei.week03_first.usermvp.IUserContract;
 import com.bwei.week03_first.usermvp.UserPresenterImpl;
-
+/**
+ * @Auther :Hming
+ * @Date : 2019/6/9  21:05
+ * @Description: 注册页面
+ */
 public class ResignActivity extends BaseActivity implements IUserContract.IUserView {
 
 

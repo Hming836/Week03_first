@@ -7,7 +7,7 @@ import com.android.volley.toolbox.Volley;
 
 /**
  * @Auther :Hming
- * @Date : 2019/5/27  20:45
+ * @Date : 2019/6/9  20:45
  * @Description: ${DESCRIPTION}
  */
 public class MyApplication extends Application {
